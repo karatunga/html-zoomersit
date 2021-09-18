@@ -11,7 +11,7 @@ body {
 */
 
 .custom-navlink li a {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     color: var(--nord1);
     letter-spacing: 1px;
@@ -22,5 +22,5 @@ body {
 }
 
 .custom-navlink a.nav-link:hover{
-    color:var(--nord10);
+    color:var(--nord10) !important;
 }
