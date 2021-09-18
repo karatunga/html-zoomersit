@@ -10,6 +10,48 @@ body {
 }
 */
 
+h1,h2,h3,h4,h5,h6 {
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0px;
+}
+
+.ch1 {
+  color: var(--nord2);
+  font-weight:bold;
+  font-size: 45px;
+  line-height: normal;
+  margin-bottom: 45px;
+}
+
+.ch2 {
+  color: var(--nord2);
+  font-size: 35px;
+  line-height: 52px;
+  margin-top: 0px;
+}
+
+.ch3 {
+  color: var(--nord2);
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+
+.ch4 {
+  color: var(--nord2);
+  font-size: 20px;
+}
+
+.cp {
+  color: var(--nord2) !important;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  letter-spacing: 0.2px;
+}
+
 .custom-navlink li a {
     font-size: 14px;
     font-weight: bold;
