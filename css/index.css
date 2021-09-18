@@ -4,10 +4,11 @@
     background-color: white !important;
 }
 
+/*
 body {
     background-color: var(--nord6) !important;
 }
-
+*/
 
 .custom-navlink li a {
     font-size: 12px;
